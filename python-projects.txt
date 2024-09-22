@@ -1,0 +1,1 @@
+this folder consistes of some of the projects im gonna do along the way to learn python
